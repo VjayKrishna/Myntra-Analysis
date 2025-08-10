@@ -59,8 +59,7 @@ This project analyzes Myntra’s brand reputation, customer sentiment, and marke
 - Competitor comparison scores
 
 ## 🛠️ Tools Used
-- Manual social media mining  
-- Excel for data organization  
+- Manual social media mining    
 - Strategic frameworks (SWOT, Business Model Canvas)  
 - PowerPoint for presentation
 
